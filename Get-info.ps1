@@ -6,3 +6,6 @@ Write-Host "What's up"
 
 Write-Host "Computer Name it is what inspires me."
 Write-Host "Computer name it is what i think it inspires me."
+
+Write-Host "is this new branch?"
+Write-Host "Say, hello to Git!"
